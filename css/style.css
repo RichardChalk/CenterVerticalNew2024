@@ -1,0 +1,10 @@
+.center-box {
+  height: 300px;
+  width: auto;
+  background-color: red;
+  color: white;
+  text-align: center;
+
+  /* Ny 2024! Cenrtrera vertikalt UTAN Grid eller Flexbox! */
+  align-content: center;
+}
